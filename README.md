@@ -2,6 +2,8 @@
 
 This project is prepared as part of an assignment for "DSCI 573: Feature and Model Selection" course in the Master of Data Science program at the University of British Columbia. Throughout the project, I identify a dataset, conduct exploratory data analysis, fit a machine learning model and apply various feature selection methods.
 
+The analysis can be viewed [here](src/analysis.ipynb).
+
 # Data
 
 The data comes from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php) and links features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass to whether the mass is malignant or benign. The dataset can be downloaded [here](http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data).
@@ -37,6 +39,3 @@ The data comes from the [UCI Machine Learning Repository](http://archive.ics.uci
 
 More information on the dataset: [Wisconsin Diagnostic Breast Cancer (WDBC)](http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.names)
 
-# Directions
-
-You can view the whole analysis in `src/analysis.ipynb` in this repository.
