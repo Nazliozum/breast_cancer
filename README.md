@@ -36,3 +36,7 @@ The data comes from the [UCI Machine Learning Repository](http://archive.ics.uci
 - There are no missing values in the dataset.
 
 More information on the dataset: [Wisconsin Diagnostic Breast Cancer (WDBC)](http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.names)
+
+# Directions
+
+You can view the whole analysis in `src/analysis.ipynb` in this repository.
